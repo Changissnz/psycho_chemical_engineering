@@ -1,7 +1,7 @@
 # Introduction
 Once upon a time, there was a genius that invented the term "social engineering". This term "social engineering" really revolutionized my thinking. 
 Before I heard this term, I thought the field of engineering was, you know, very scientifically and logically verified, and that the products yielded
-from serious engineering projects was stable and long-lasting. I thought I had standards. But when the word of the genius came to me to enable me to
+from serious engineering projects were stable and long-lasting. I thought I had standards. But when the word of the genius came to me to enable me to
 discover social engineering, I finally mustered the courage to admit that I was wrong. Engineering Qengineering Rengineering Pengineering, and the
 list goes on and on. Ever since I heard the word of the genius, I have seen such... different engineering standards. Engineering as a means to deceive
 and destroy. Engineering as a means to guarantee an output, usually with dramatic losses and gains for the receiving ends. Engineering as a control system.
